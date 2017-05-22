@@ -2,7 +2,7 @@
 
 A wordpress plugin that hides content inside until user shares on social network using buttons provided
 
-The original code for locker is not mine. I just put together wordpress plugin.
+Original js code is written by someone else. I just put together the wordpress plugin for it.
 
 # Installation
 
