@@ -1,4 +1,4 @@
-# shareit-locker
+# WPshareit-locker
 
 A wordpress plugin that hides content inside until user shares on social network using buttons provided
 
